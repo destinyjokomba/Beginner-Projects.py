@@ -1,7 +1,7 @@
 #Create products and give them a price
 
 p1_name, p1_price = "Merlot Red wine", 13.99
-p2_name, p2_price = "Salon Fillets", 11.49
+p2_name, p2_price = "Salmon Fillets", 11.49
 p3_name, p3_price = "Basmati Rice", 3.49
 
 
